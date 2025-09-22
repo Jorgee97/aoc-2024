@@ -19,5 +19,6 @@ func ExtractFile(location string) []string {
 
 func main() {
 	// Solve()
-	SolveD2()
+	// SolveD2()
+	SolveD3()
 }
